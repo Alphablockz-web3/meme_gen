@@ -7,7 +7,7 @@ services:
       - "5000:5000"
     environment:
       DEBUG: "false"
-      SERVER_NAME: "68.183.188.241:5000"
+      SERVER_NAME: "gen.memeprof.com"
       RELEASE_STAGE: "production"
       SCHEME: "http"
       PATH: "/root/.asdf/shims:$PATH"
