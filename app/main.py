@@ -43,7 +43,7 @@ if __name__ == "__main__":
     app.run(
         host="0.0.0.0",
         port=5000,
-        debug=settings.DEBUG,
+        debug=False,
         auto_reload=True,
         access_log=False,
         motd=False,

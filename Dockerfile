@@ -34,7 +34,7 @@ RUN python -m venv .venv && \
 
 ENV DEBUG=false
 # Expose cổng dịch vụ
-EXPOSE 5001
+EXPOSE 5000
 
 # Lệnh khởi động
 CMD ["make", "run"]

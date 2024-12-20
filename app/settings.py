@@ -19,7 +19,7 @@ elif "HEROKU_APP_NAME" in os.environ:  # review apps
     SCHEME = "https"
 else:  # localhost
     SERVER_NAME = "localhost:5000"
-    RELEASE_STAGE = "local"
+    RELEASE_STAGE = "production"
     SCHEME = "http"
 
 BASE_URL = f"{SCHEME}://{SERVER_NAME}"
@@ -54,7 +54,7 @@ MINIMUM_FRAMES = 5
 # Watermarks
 
 DISABLED_WATERMARK = "none"
-DEFAULT_WATERMARK = "Memegen.link"
+DEFAULT_WATERMARK = "memeprof.com"
 ALLOWED_WATERMARKS = [DEFAULT_WATERMARK]
 
 WATERMARK_HEIGHT = 20
