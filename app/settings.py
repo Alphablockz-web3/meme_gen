@@ -7,7 +7,7 @@ PLACEHOLDER = "string"  # Swagger UI placeholder value
 
 # Server configuration
 
-DEBUG = os.environ.get("DEBUG", "false") == "true"
+DEBUG = False
 
 if "DOMAIN" in os.environ:  # staging / production
     SERVER_NAME = os.environ["DOMAIN"]

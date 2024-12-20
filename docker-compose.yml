@@ -1,0 +1,16 @@
+services:
+  memegen:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5001:5001"
+    environment:
+      DEBUG: "false"
+      SERVER_NAME: "68.183.188.241:5000"
+      RELEASE_STAGE: "production"
+      SCHEME: "http"
+      PATH: "/root/.asdf/shims:$PATH"
+    volumes:
+      - .:/app
+    command: make run
