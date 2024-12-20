@@ -18,7 +18,7 @@ elif "HEROKU_APP_NAME" in os.environ:  # review apps
     RELEASE_STAGE = "review"
     SCHEME = "https"
 else:  # localhost
-    SERVER_NAME = "localhost:5000"
+    SERVER_NAME = "68.183.188.241:5000"
     RELEASE_STAGE = "production"
     SCHEME = "http"
 
