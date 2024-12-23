@@ -20,7 +20,7 @@ elif "HEROKU_APP_NAME" in os.environ:  # review apps
 else:  # localhost
     SERVER_NAME = "gen.memeprof.com"
     RELEASE_STAGE = "production"
-    SCHEME = "http"
+    SCHEME = "https"
 
 BASE_URL = f"{SCHEME}://{SERVER_NAME}"
 DEPLOYED = RELEASE_STAGE != "local" and not DEBUG

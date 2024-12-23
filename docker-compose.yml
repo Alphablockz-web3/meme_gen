@@ -9,7 +9,7 @@ services:
       DEBUG: "false"
       SERVER_NAME: "gen.memeprof.com"
       RELEASE_STAGE: "production"
-      SCHEME: "http"
+      SCHEME: "https"
       PATH: "/root/.asdf/shims:$PATH"
     volumes:
       - .:/app
