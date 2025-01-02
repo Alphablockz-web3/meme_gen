@@ -80,18 +80,18 @@ def init(app: Sanic):
 
         [
             {
-                "id": "aag",
+                "id": "afraid",
                 "name": "Ancient Aliens Guy",
                 "lines": 2,
                 "overlays": 0,
                 "styles": [],
-                "blank": "https://api.memegen.link/images/aag.png",
+                "blank": "https://api.memegen.link/images/afraid.png",
                 "example": {
                     "text": [
                         "",
                         "aliens"
                     ],
-                    "url": "https://api.memegen.link/images/aag/_/aliens.png"
+                    "url": "https://api.memegen.link/images/afraid/_/aliens.png"
                 },
                 "source": "http://knowyourmeme.com/memes/ancient-aliens",
             },
@@ -102,14 +102,14 @@ def init(app: Sanic):
         Add text to create a meme:
 
         ```
-        $ http POST https://api.memegen.link/images template_id=aag "text[]=foo" "text[]=bar"
+        $ http POST https://api.memegen.link/images template_id=afraid "text[]=foo" "text[]=bar"
 
         {
-            "url": "https://api.memegen.link/images/aag/foo/bar.png"
+            "url": "https://api.memegen.link/images/afraid/foo/bar.png"
         }
         ```
 
-        View the image: <https://api.memegen.link/images/aag/foo/bar.png>
+        View the image: <https://api.memegen.link/images/afraid/foo/bar.png>
 
         ## Links
         """.replace(
