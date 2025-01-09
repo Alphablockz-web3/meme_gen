@@ -87,21 +87,10 @@ async def custom_watermarks_allowed(request: Request) -> bool:
 async def get_watermark(request: Request) -> tuple[str, bool]:
     watermark = request.args.get("watermark", "")
 
-    if await custom_watermarks_allowed(request):
-        if watermark == settings.DISABLED_WATERMARK:
-            return "", False
-        return watermark, False
-
-    if watermark:
-        if watermark == settings.DEFAULT_WATERMARK:
-            logger.warning(f"Redundant watermark: {watermark}")
-            return settings.DEFAULT_WATERMARK, True
-        if watermark in settings.ALLOWED_WATERMARKS:
-            return watermark, False
-        logger.warning(f"Invalid watermark: {watermark}")
-        return settings.DEFAULT_WATERMARK, True
-
-    return settings.DEFAULT_WATERMARK, False
+    if watermark == "true":
+        return settings.DEFAULT_WATERMARK, False
+    else:
+        return '', False
 
 
 async def track(request: Request, lines: list[str]):
