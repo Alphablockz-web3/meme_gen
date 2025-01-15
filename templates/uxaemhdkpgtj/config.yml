@@ -1,0 +1,38 @@
+name: cute cat couple GIF
+source: https://www.reddit.com/r/aww/comments/9m9am5/cutest_couple_ever/
+keywords:
+  - cute
+  - cats
+  - adorable
+  - posing
+  - cutest
+  - cat couple
+text:
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0
+    anchor_y: 0
+    angle: 0
+    scale_x: 1
+    scale_y: 0.2
+    align: center
+    start: 0.2
+    stop: 0.55
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0
+    anchor_y: 0.8
+    angle: 0
+    scale_x: 1
+    scale_y: 0.2
+    align: center
+    start: 0.65
+    stop: 1
+example: []
+overlay:
+  - center_x: 0.25
+    center_y: 0.2
+    angle: 0
+    scale: 0.2

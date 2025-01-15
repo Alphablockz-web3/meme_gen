@@ -1,0 +1,56 @@
+name: Celebrate Happy Birthday GIF by Cameo
+source: www.cameo.com
+keywords:
+  - funny
+  - cute
+  - party
+  - dog
+  - celebrate
+  - birthday
+  - happy birthday
+  - hbd
+  - aw
+  - doggie
+  - happy birthday to you
+  - happy birthday funny
+  - cameo
+  - birthday funny
+  - doggies
+  - birthday hat
+  - dog birthday
+  - birthday dog
+  - dog bday
+  - bday dog
+  - hbd dog
+  - happy birthday dogs
+  - dog dressed up
+  - tuna melts my heart
+text:
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0
+    anchor_y: 0
+    angle: 0
+    scale_x: 1
+    scale_y: 0.2
+    align: center
+    start: 0.2
+    stop: 0.55
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0
+    anchor_y: 0.8
+    angle: 0
+    scale_x: 1
+    scale_y: 0.2
+    align: center
+    start: 0.65
+    stop: 1
+example: []
+overlay:
+  - center_x: 0.25
+    center_y: 0.2
+    angle: 0
+    scale: 0.2

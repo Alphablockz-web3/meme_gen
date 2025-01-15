@@ -1,0 +1,59 @@
+name: Captain America Lol GIF by mtv
+source: http://mtv.tumblr.com/post/142926537018/chris-evans-laugh-boob-tap
+keywords:
+  - funny
+  - lol
+  - laugh
+  - laughing
+  - haha
+  - lmao
+  - captain america
+  - laughter
+  - chris evans
+  - hahaha
+  - lmfao
+  - rofl
+  - risas
+  - hysterical
+  - cracking up
+  - lolol
+  - hehehehe
+  - wkwkwk
+  - dying laughing
+  - wkwkwkw
+  - busting up
+  - laughing hysterically
+  - lmaooo
+  - lmaoo
+  - hysterical laughter
+  - laughing man
+  - hard laughing
+text:
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0
+    anchor_y: 0
+    angle: 0
+    scale_x: 1
+    scale_y: 0.2
+    align: center
+    start: 0.2
+    stop: 0.55
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0
+    anchor_y: 0.8
+    angle: 0
+    scale_x: 1
+    scale_y: 0.2
+    align: center
+    start: 0.65
+    stop: 1
+example: []
+overlay:
+  - center_x: 0.25
+    center_y: 0.2
+    angle: 0
+    scale: 0.2

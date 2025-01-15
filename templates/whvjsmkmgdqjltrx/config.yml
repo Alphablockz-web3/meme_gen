@@ -1,0 +1,50 @@
+name: Cryptocurrency Blockchain GIF by MultiversX
+source: ''
+keywords:
+  - meme
+  - memes
+  - cryptocurrency
+  - blockchain
+  - x
+  - web3
+  - egld
+  - criptomoneda
+  - krypto
+  - multiversx
+  - xportal
+  - skibidi
+  - xmoney
+  - skibidi toilet
+  - crypto memes
+  - skibidi toilets
+  - dop dop yes yes
+  - bop bop yes yes
+text:
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0
+    anchor_y: 0
+    angle: 0
+    scale_x: 1
+    scale_y: 0.2
+    align: center
+    start: 0.2
+    stop: 0.55
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0
+    anchor_y: 0.8
+    angle: 0
+    scale_x: 1
+    scale_y: 0.2
+    align: center
+    start: 0.65
+    stop: 1
+example: []
+overlay:
+  - center_x: 0.25
+    center_y: 0.2
+    angle: 0
+    scale: 0.2

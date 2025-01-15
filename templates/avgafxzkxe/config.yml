@@ -1,0 +1,51 @@
+name: Nick Offerman Lol GIF
+source: >-
+  http://www.reddit.com/r/reactiongifs/comments/1sfzk3/mrw_i_make_room_by_unbuttoning_my_pants_after_a/
+keywords:
+  - funny
+  - lol
+  - laugh
+  - laughing
+  - haha
+  - hahaha
+  - funny gif
+  - nick offerman
+  - divertente
+  - hehehehe
+  - hahahah
+  - ‏ههه
+  - chistosos
+  - wkwkwk
+  - wkwkwkw
+  - bahaha
+  - xa-xa
+  - jajajjaa
+text:
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0
+    anchor_y: 0
+    angle: 0
+    scale_x: 1
+    scale_y: 0.2
+    align: center
+    start: 0.2
+    stop: 0.55
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0
+    anchor_y: 0.8
+    angle: 0
+    scale_x: 1
+    scale_y: 0.2
+    align: center
+    start: 0.65
+    stop: 1
+example: []
+overlay:
+  - center_x: 0.25
+    center_y: 0.2
+    angle: 0
+    scale: 0.2

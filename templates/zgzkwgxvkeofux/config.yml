@@ -1,0 +1,45 @@
+name: Chill Chilling GIF
+source: >-
+  https://www.reddit.com/r/Eyebleach/comments/9hmk82/time_to_get_my_hair_brushed_though_he_is_enjoying/
+keywords:
+  - cute
+  - chill
+  - adorable
+  - monkey
+  - aww
+  - zen
+  - chilling
+  - groom
+  - eyebleach
+  - cuteness
+  - grooming
+  - chill monkey
+text:
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0
+    anchor_y: 0
+    angle: 0
+    scale_x: 1
+    scale_y: 0.2
+    align: center
+    start: 0.2
+    stop: 0.55
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0
+    anchor_y: 0.8
+    angle: 0
+    scale_x: 1
+    scale_y: 0.2
+    align: center
+    start: 0.65
+    stop: 1
+example: []
+overlay:
+  - center_x: 0.25
+    center_y: 0.2
+    angle: 0
+    scale: 0.2

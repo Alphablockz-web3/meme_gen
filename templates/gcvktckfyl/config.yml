@@ -1,0 +1,68 @@
+name: Go Ahead Yes GIF
+source: >-
+  http://www.reddit.com/r/reactiongifs/comments/3w8flq/mrw_my_coworker_says_he_brought_donuts_while_im/
+keywords:
+  - reaction
+  - meme
+  - 'yes'
+  - cool
+  - movies
+  - nice
+  - ok
+  - thumbs up
+  - okay
+  - memes
+  - emotion
+  - agree
+  - asian
+  - fine
+  - thumbs
+  - hd
+  - agreed
+  - response
+  - approve
+  - chewing
+  - thumb up
+  - best gif
+  - Yesssss
+  - go ahead
+  - kool
+  - looks good
+  - on it
+  - ok cool
+  - very cool
+  - azn
+  - proceed
+  - chow yun fat
+  - pouce leve
+  - chow yun-fat
+  - thumbs up asian
+text:
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0
+    anchor_y: 0
+    angle: 0
+    scale_x: 1
+    scale_y: 0.2
+    align: center
+    start: 0.2
+    stop: 0.55
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0
+    anchor_y: 0.8
+    angle: 0
+    scale_x: 1
+    scale_y: 0.2
+    align: center
+    start: 0.65
+    stop: 1
+example: []
+overlay:
+  - center_x: 0.25
+    center_y: 0.2
+    angle: 0
+    scale: 0.2

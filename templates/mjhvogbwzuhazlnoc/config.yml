@@ -1,0 +1,40 @@
+name: cute bush baby GIF
+source: >-
+  https://www.reddit.com/r/Eyebleach/comments/9muqj1/bush_babies_are_severely_underrated/
+keywords:
+  - cute
+  - adorable
+  - aww
+  - tiny
+  - eyebleach
+  - bush baby
+  - bush babies
+text:
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0
+    anchor_y: 0
+    angle: 0
+    scale_x: 1
+    scale_y: 0.2
+    align: center
+    start: 0.2
+    stop: 0.55
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0
+    anchor_y: 0.8
+    angle: 0
+    scale_x: 1
+    scale_y: 0.2
+    align: center
+    start: 0.65
+    stop: 1
+example: []
+overlay:
+  - center_x: 0.25
+    center_y: 0.2
+    angle: 0
+    scale: 0.2

@@ -1,0 +1,58 @@
+name: Kenan Thompson Reaction GIF
+source: http://www.reactiongifs.com/kenan-oh-really/
+keywords:
+  - reaction
+  - meme
+  - gif
+  - black
+  - reactions
+  - surprise
+  - snl
+  - memes
+  - surprised
+  - emotion
+  - emotions
+  - disbelief
+  - black people
+  - yeah right
+  - bitch please
+  - ok then
+  - best gif
+  - black guy
+  - sorprendid
+  - sorpren
+  - whatsapp status
+  - free gif
+  - surprised gif
+  - oh really?
+  - Are you sure?
+  - o rly?
+text:
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0
+    anchor_y: 0
+    angle: 0
+    scale_x: 1
+    scale_y: 0.2
+    align: center
+    start: 0.2
+    stop: 0.55
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0
+    anchor_y: 0.8
+    angle: 0
+    scale_x: 1
+    scale_y: 0.2
+    align: center
+    start: 0.65
+    stop: 1
+example: []
+overlay:
+  - center_x: 0.25
+    center_y: 0.2
+    angle: 0
+    scale: 0.2

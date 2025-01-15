@@ -1,0 +1,67 @@
+name: Tom Hiddleston Reaction GIF
+source: >-
+  http://www.reactiongifs.com/loki-ooh/?utm_source=rss&utm_medium=rss&utm_campaign=loki-ooh
+keywords:
+  - reaction
+  - meme
+  - gif
+  - reactions
+  - memes
+  - oh
+  - booty
+  - emotion
+  - flirting
+  - emotions
+  - loki
+  - tom hiddleston
+  - horny
+  - thirsty
+  - flirty
+  - likes
+  - need
+  - ooh
+  - interested
+  - lust
+  - i want you
+  - Oooo
+  - best gif
+  - dat ass
+  - aw yeah
+  - classic reaction
+  - dayum
+  - aroused
+  - i need it
+  - do want
+  - im horny
+  - free gif
+  - booty had me like
+  - ooh yea
+text:
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0
+    anchor_y: 0
+    angle: 0
+    scale_x: 1
+    scale_y: 0.2
+    align: center
+    start: 0.2
+    stop: 0.55
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0
+    anchor_y: 0.8
+    angle: 0
+    scale_x: 1
+    scale_y: 0.2
+    align: center
+    start: 0.65
+    stop: 1
+example: []
+overlay:
+  - center_x: 0.25
+    center_y: 0.2
+    angle: 0
+    scale: 0.2

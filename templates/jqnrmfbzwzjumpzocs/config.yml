@@ -1,0 +1,49 @@
+name: Sleepy New Year GIF by JustViral
+source: >-
+  https://www.justviral.net/52-animal-meme-pictures-that-are-so-damn-dumb-but-so-damn-funny/
+keywords:
+  - cute
+  - dog
+  - mood
+  - reactions
+  - winter
+  - '2020'
+  - vacation
+  - adorable
+  - sleepy
+  - new year
+  - sleeping
+  - aww
+  - lazy
+  - nap
+  - pit bull
+  - happiest
+text:
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0
+    anchor_y: 0
+    angle: 0
+    scale_x: 1
+    scale_y: 0.2
+    align: center
+    start: 0.2
+    stop: 0.55
+  - style: upper
+    color: white
+    font: thick
+    anchor_x: 0
+    anchor_y: 0.8
+    angle: 0
+    scale_x: 1
+    scale_y: 0.2
+    align: center
+    start: 0.65
+    stop: 1
+example: []
+overlay:
+  - center_x: 0.25
+    center_y: 0.2
+    angle: 0
+    scale: 0.2
